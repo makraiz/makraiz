@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makraiz
 - 👀 I’m interested in automation, & game development.
 - 🌱 I’m currently learning more about Rust.
-- 💞️ I’m looking to collaborate on game development.
+- 💞️ I’m looking to collaborate on game development, with a particular interest in roguelikes.
 - 📖 I know Rust, C++/Qt, C#, JavaScript, HTML, Python, Shell, and am open to learning others.
 <!--- - 📫 How to reach me: e-mail <redacted> --->
 
