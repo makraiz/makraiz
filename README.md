@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makraiz
-- 👀 I’m interested in automation, & game development.
+- 👀 I’m interested in automation, data sanitization, and game development.
 - 🌱 I’m currently learning more about Rust.
 - 💻 I've built automation & data wiping software/hardware solutions for local e-waste recyclers.
 - 💞️ I’m looking to collaborate on game development, with a particular interest in roguelikes.
