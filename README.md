@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makraiz!
 - 👀 I’m interested in automation, data sanitization, and game development.
-- 🌱 I’m currently learning more about Rust, and working with rltk/brackets.
+- 🌱 I’m currently learning more about Rust, and working with rltk/bracket-lib.
 - 💻 I've built automation & data wiping software/hardware solutions for local e-waste recyclers.
 - 💞️ I’m looking to collaborate on game development, with a particular interest in procedural generation.
 - 📖 I know Rust, C++/Qt, C#, JavaScript, HTML/CSS, Python, Shell, and am open to learning others.
