@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about Rust, and working with Bevy.
 - 💻 I've built full-stack automation & data wiping software/hardware solutions for local e-waste recyclers.
 - 💞️ I’m looking to collaborate on game development, with a particular interest in procedural generation.
-- 📖 I know Rust, C++/Qt, C#, JavaScript, HTML/CSS, Python, BASH, and am open to learning others.
+- 📖 I know Rust, and a few other languages.
 - ⚙️ I'm open to new employment opportunities.  I'm only interested in remote positions involving Rust.  
 - 📫 How to reach me: e-mail makdaddy13@protonmail.com
 
